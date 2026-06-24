@@ -34,7 +34,7 @@ menu__settings:
 author:
   author__name: Olivia B. Newton, Ph.D.
   author__avatar: "/images/obn.png"
-  author__bio: I’m a scientist dedicated to helping people <br> improve how they learn and collaborate.
+  author__bio: I’m a scientist dedicated to helping people <br> improve how they learn and collaborate with technology.
 
 #-------------------------------
 # Links Section Settings
@@ -61,7 +61,7 @@ links__item:
 hero:
   hero__title: Hola! I'm <span>Olivia B. Newton</span>. # Wrap text in a <span></span> tag to highlight and underline text.
   hero__job: 
-  hero__description: My work focuses on enhancing human cognition and collaboration in science and engineering.
+  hero__description: My research focuses on enhancing human cognition and collaboration in science and engineering. As an instructor, I specialize in topics spanning data science and cognitive science.
   hero__button__text: Get to know me
   hero__button__link: "/about/"
   hero__image: "/images/obn.png"
