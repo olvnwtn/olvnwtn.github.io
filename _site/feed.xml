@@ -5,15 +5,21 @@
         <description>My website</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 20 Dec 2025 15:07:06 -0700</pubDate>
-        <lastBuildDate>Sat, 20 Dec 2025 15:07:06 -0700</lastBuildDate>
+        <pubDate>Wed, 24 Jun 2026 00:53:22 -0600</pubDate>
+        <lastBuildDate>Wed, 24 Jun 2026 00:53:22 -0600</lastBuildDate>
         <generator>Jekyll v4.4.1</generator>
         
             <item>
                 <title>Next-Generation Ecosystems for Scientific Computing: Harnessing Community, Software, and AI for Mission-Driven Team Science</title>
-                <description>&lt;h4 id=&quot;my-role&quot;&gt;My Role&lt;/h4&gt;
+                <description>&lt;p&gt;Check out our &lt;a href=&quot;https://arxiv.org/pdf/2510.03413&quot;&gt;year 1 workshop report&lt;/a&gt; to learn more about this effort.&lt;/p&gt;
 
-&lt;p&gt;I serve as PI at the University of Montana. My collaborators are Lois Curfman McInnes at Argonne National Laboratory and Denice Ward Hood at the University of Illinois.&lt;/p&gt;
+&lt;h4 id=&quot;my-role&quot;&gt;My Role&lt;/h4&gt;
+
+&lt;p&gt;I serve as PI at the University of Montana. My collaborators are Lois Curfman McInnes and Anshu Dubey at Argonne National Laboratory and Denice Ward Hood at the University of Illinois.&lt;/p&gt;
+
+&lt;h4 id=&quot;presentations&quot;&gt;Presentations&lt;/h4&gt;
+
+&lt;p&gt;Newton, O. B., Dubey, A., Hood, D. W., &amp;amp; McInnes, L. C. (2025). Collaboration in Scientific Software: A Systematic Literature Review. US Research Software Engineering Conference 2025 (USRSE’25), Philadelphia, PA, USA. Zenodo. https://doi.org/10.5281/zenodo.17281562&lt;/p&gt;
 </description>
                 <pubDate>Mon, 30 Sep 2024 00:00:00 -0600</pubDate>
                 <link>http://localhost:4000/Next-Gen/</link>
@@ -69,6 +75,23 @@
                 <pubDate>Mon, 01 Jan 2024 00:00:00 -0700</pubDate>
                 <link>http://localhost:4000/Hybrid-Teams/</link>
                 <guid isPermaLink="true">http://localhost:4000/Hybrid-Teams/</guid>
+                
+                
+            </item>
+        
+            <item>
+                <title>How Team Member Identities Shape Innovation</title>
+                <description>&lt;h4 id=&quot;my-role&quot;&gt;My Role&lt;/h4&gt;
+
+&lt;p&gt;I’m working with &lt;a href=&quot;https://www.umt.edu/business-faculty-staff/directory/management-marketing.php?ID=8747&quot;&gt;Tyler R. Talbot&lt;/a&gt; to study teams in a medical device innovation competition.&lt;/p&gt;
+
+&lt;h4 id=&quot;status&quot;&gt;Status&lt;/h4&gt;
+
+&lt;p&gt;This project is in the data collection stage.&lt;/p&gt;
+</description>
+                <pubDate>Mon, 01 Jan 2024 00:00:00 -0700</pubDate>
+                <link>http://localhost:4000/Identity-and-Innovation/</link>
+                <guid isPermaLink="true">http://localhost:4000/Identity-and-Innovation/</guid>
                 
                 
             </item>
