@@ -5,8 +5,8 @@
         <description>My website</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jun 2026 18:52:41 -0600</pubDate>
-        <lastBuildDate>Thu, 25 Jun 2026 18:52:41 -0600</lastBuildDate>
+        <pubDate>Thu, 25 Jun 2026 18:56:20 -0600</pubDate>
+        <lastBuildDate>Thu, 25 Jun 2026 18:56:20 -0600</lastBuildDate>
         <generator>Jekyll v4.4.1</generator>
         
             <item>
@@ -19,7 +19,12 @@
 
 &lt;h4 id=&quot;presentations&quot;&gt;Presentations&lt;/h4&gt;
 
-&lt;p&gt;Newton, O. B., Dubey, A., Hood, D. W., &amp;amp; McInnes, L. C. (2025). Collaboration in Scientific Software: A Systematic Literature Review. US Research Software Engineering Conference 2025 (USRSE’25), Philadelphia, PA, USA. Zenodo. https://doi.org/10.5281/zenodo.17281562&lt;/p&gt;
+&lt;h5 id=&quot;collaboration-in-scientific-software-a-systematic-literature-review&quot;&gt;&lt;a href=&quot;https://doi.org/10.5281/zenodo.17281562&quot;&gt;Collaboration in Scientific Software: A Systematic Literature Review.&lt;/a&gt;&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Presented at the 2025 US Research Software Engineering Conference 2025 (USRSE’25)&lt;/li&gt;
+  &lt;li&gt;Co-authors: Anshu Dubey, Denice Ward Hood, Lois Curfman McInnes&lt;/li&gt;
+&lt;/ul&gt;
 </description>
                 <pubDate>Mon, 30 Sep 2024 00:00:00 -0600</pubDate>
                 <link>http://localhost:4000/Next-Gen/</link>
