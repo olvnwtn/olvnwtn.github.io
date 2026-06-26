@@ -5,8 +5,8 @@
         <description>My website</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jun 2026 23:25:13 -0600</pubDate>
-        <lastBuildDate>Thu, 25 Jun 2026 23:25:13 -0600</lastBuildDate>
+        <pubDate>Thu, 25 Jun 2026 23:26:32 -0600</pubDate>
+        <lastBuildDate>Thu, 25 Jun 2026 23:26:32 -0600</lastBuildDate>
         <generator>Jekyll v4.4.1</generator>
         
             <item>
@@ -48,7 +48,7 @@
   &lt;li&gt;Presented at the 2025 US Research Software Engineering Conference 2025 (USRSE’25)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&quot;building-high-performance-teams-in-high-performance-computing-and-beyond&quot;&gt;&lt;a href=&quot;https://doi.org/10.5281/zenodo.17281562&quot;&gt;Building High-Performance Teams in High-Performance Computing and Beyond.&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&quot;building-high-performance-teams-in-high-performance-computing-and-beyond&quot;&gt;Building High-Performance Teams in High-Performance Computing and Beyond.&lt;/h5&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Presented at the Clemson University School of Computing Seminar Series&lt;/li&gt;
