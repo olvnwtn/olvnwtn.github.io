@@ -5,8 +5,8 @@
         <description>My website</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jun 2026 23:26:32 -0600</pubDate>
-        <lastBuildDate>Thu, 25 Jun 2026 23:26:32 -0600</lastBuildDate>
+        <pubDate>Thu, 25 Jun 2026 23:28:18 -0600</pubDate>
+        <lastBuildDate>Thu, 25 Jun 2026 23:28:18 -0600</lastBuildDate>
         <generator>Jekyll v4.4.1</generator>
         
             <item>
@@ -39,7 +39,7 @@
 &lt;h5 id=&quot;a-survey-of-teamwork-ai-and-their-integration-in-scientific-computing-preliminary-findings&quot;&gt;&lt;a href=&quot;https://zenodo.org/records/19101680&quot;&gt;A Survey of Teamwork, AI, and Their Integration in Scientific Computing: Preliminary Findings.&lt;/a&gt;&lt;/h5&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Presented at the Consortium for the Advancement of Scientific Software User Developer Experience Working Group Webinar Series&lt;/li&gt;
+  &lt;li&gt;Presented at the Consortium for the Advancement of Scientific Software (CASS) User Developer Experience (UDX) Working Group Webinar Series&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h5 id=&quot;collaboration-in-scientific-software-a-systematic-literature-review&quot;&gt;&lt;a href=&quot;https://doi.org/10.5281/zenodo.17281562&quot;&gt;Collaboration in Scientific Software: A Systematic Literature Review.&lt;/a&gt;&lt;/h5&gt;
