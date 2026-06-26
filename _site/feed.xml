@@ -5,23 +5,28 @@
         <description>My website</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jun 2026 19:30:12 -0600</pubDate>
-        <lastBuildDate>Thu, 25 Jun 2026 19:30:12 -0600</lastBuildDate>
+        <pubDate>Thu, 25 Jun 2026 19:37:26 -0600</pubDate>
+        <lastBuildDate>Thu, 25 Jun 2026 19:37:26 -0600</lastBuildDate>
         <generator>Jekyll v4.4.1</generator>
         
             <item>
                 <title>Next-Generation Ecosystems for Scientific Computing: Harnessing Community, Software, and AI for Mission-Driven Team Science</title>
-                <description>&lt;p&gt;Check out the &lt;a href=&quot;https://arxiv.org/pdf/2510.03413&quot;&gt;report of the first workshop&lt;/a&gt; in our 3-year series to learn more about this effort:&lt;/p&gt;
+                <description>&lt;h4 id=&quot;my-role&quot;&gt;My Role&lt;/h4&gt;
 
-&lt;div style=&quot;text-align: center;&quot;&gt;
-&lt;a href=&quot;https://arxiv.org/pdf/2510.03413&quot;&gt;
-&lt;img src=&quot;/images/report_cover-01.jpg&quot; alt=&quot;workshop year 1 report cover&quot; width=&quot;200&quot; /&gt;
-&lt;/a&gt;
+&lt;p&gt;I serve as PI at the University of Montana. My collaborators are Lois Curfman McInnes and Anshu Dubey at Argonne National Laboratory and Denice Ward Hood and Santiago Ospina Tabares at the University of Illinois.&lt;/p&gt;
+
+&lt;h4 id=&quot;publications&quot;&gt;Publications&lt;/h4&gt;
+
+&lt;p&gt;Forthcoming: &lt;i&gt;Ecosystems for scientific computing in the age of AI&lt;/i&gt; in &lt;a href=&quot;https://www.computer.org/csdl/magazine/cs&quot;&gt;IEEE Computing in Science &amp;amp; Engineering&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div style=&quot;display: flex; align-items: center; gap: 16px;&quot;&gt;
+  &lt;p&gt;Check out the &lt;a href=&quot;https://arxiv.org/pdf/2510.03413&quot;&gt;report of the first workshop&lt;/a&gt; in our 3-year series to learn more about our efforts.&lt;/p&gt;
+  &lt;a href=&quot;https://arxiv.org/pdf/2510.03413&quot;&gt;
+    &lt;img src=&quot;/images/report_cover-01.jpg&quot; alt=&quot;workshop year 1 report cover&quot; width=&quot;400&quot; /&gt;
+  &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;h4 id=&quot;my-role&quot;&gt;My Role&lt;/h4&gt;
-
-&lt;p&gt;I serve as PI at the University of Montana. My collaborators are Lois Curfman McInnes and Anshu Dubey at Argonne National Laboratory and Denice Ward Hood at the University of Illinois.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;presentations&quot;&gt;Presentations&lt;/h4&gt;
 
@@ -29,7 +34,6 @@
 
 &lt;ul&gt;
   &lt;li&gt;Presented at the Platform for Advanced Scientific Computing (PASC) Conference (PASC26)&lt;/li&gt;
-  &lt;li&gt;Co-authors: Anshu Dubey, Denice Ward Hood, Lois Curfman McInnes, Santiago Ospina Tabares&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h5 id=&quot;a-survey-of-teamwork-ai-and-their-integration-in-scientific-computing-preliminary-findings&quot;&gt;&lt;a href=&quot;https://zenodo.org/records/19101680&quot;&gt;A Survey of Teamwork, AI, and Their Integration in Scientific Computing: Preliminary Findings.&lt;/a&gt;&lt;/h5&gt;
@@ -42,7 +46,6 @@
 
 &lt;ul&gt;
   &lt;li&gt;Presented at the 2025 US Research Software Engineering Conference 2025 (USRSE’25)&lt;/li&gt;
-  &lt;li&gt;Co-authors: Anshu Dubey, Denice Ward Hood, Lois Curfman McInnes&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h5 id=&quot;building-high-performance-teams-in-high-performance-computing-and-beyond&quot;&gt;&lt;a href=&quot;https://doi.org/10.5281/zenodo.17281562&quot;&gt;Building High-Performance Teams in High-Performance Computing and Beyond.&lt;/a&gt;&lt;/h5&gt;
