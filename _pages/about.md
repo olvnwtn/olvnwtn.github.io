@@ -21,6 +21,8 @@ Before joining UM, I was a Postdoctoral Scholar in the <a href="https://csl.ist.
 
 * Presented research on <a href="https://pasc-conference.org/editions/pasc26/presentation/?id=pos129&sess=sess135">teamwork and AI in scientific computing</a> at the <a href="https://pasc26.pasc-conference.org/">Platform for Advanced Scientific Computing Conference (PASC26)</a> (June 2026).
 
+* Recognized on the <a href="https://www.umt.edu/accessibility/electronic-accessibility/paws-for-accessibility/wall-of-fame.php">UM Trailblazer Wall of Fame</a> for development of fully accessible online course (May 2026).
+
 * Co-organized the <a href="https://events.cels.anl.gov/event/741/overview">Toward Next-Generation Ecosystems for Scientific Computing Workshop</a> hosted at Argonne National Laboratory (April 2026).
 
 * Co-authored the <a href="https://arxiv.org/pdf/2510.03413">Report of the 2025 Workshop on Next-Generation Ecosystems for Scientific Computing: Harnessing Community, Software, and AI for Cross-Disciplinary Team Science</a> (October 2025).
