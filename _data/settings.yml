@@ -12,6 +12,8 @@ menu__settings:
   menu__items:
     - title: "About"
       url: "/about/"
+    - title: "Teaching"
+      url: "/teaching/"
     - title: "Research"
       submenu:
       - url: "/Next-Gen/"
@@ -24,8 +26,8 @@ menu__settings:
         title: "Identity and Innovation"
       - url: "/Past-Projects/"
         title: "Past Projects"
-    - title: "Teaching"
-      url: "/teaching/"
+    #- title: "Publications"
+    #  url: "/publications/"
 
 #-------------------------------
 # Author Settings
