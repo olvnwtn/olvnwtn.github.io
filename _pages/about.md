@@ -19,7 +19,10 @@ Before joining UM, I was a Postdoctoral Scholar in the <a href="https://csl.ist.
 In my free time, I enjoy hiking, cycling, and baking. 
 
 
-## Recent Highlights
+### Recent Highlights
+
+
+* Co-authored the article <a href="https://doi.org/10.1109/MCSE.2026.3685068">Ecosystems for scientific computing in the age of AI</a> published in <a href="https://www.computer.org/csdl/magazine/cs">IEEE Computing in Science & Engineering</a> (July 2026).
 
 * Presented research on <a href="https://pasc-conference.org/editions/pasc26/presentation/?id=pos129&sess=sess135">teamwork and AI in scientific computing</a> at the <a href="https://pasc26.pasc-conference.org/">Platform for Advanced Scientific Computing Conference (PASC26)</a> (June 2026).
 
