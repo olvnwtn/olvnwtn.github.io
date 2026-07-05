@@ -7,4 +7,4 @@ image:  ''
 tags: []
 ---
 
-I'm collaborating with <a href="https://www.umt.edu/business-faculty-staff/directory/management-marketing.php?ID=8747">Tyler R. Talbot</a> to examine team process and performance in a medical device innovation competition. This project is currently in data collection.
+I'm collaborating with <a href="https://www.umt.edu/business-faculty-staff/directory/management-marketing.php?ID=8747">Tyler R. Talbot</a> to examine team process and performance in a medical device innovation competition at the University of Utah. This project is currently in data collection.
