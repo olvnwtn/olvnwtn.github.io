@@ -25,7 +25,7 @@ ngesc:
 tl4bssw:
   items:
     - title: "Team Science in CSE for All"
-      description: "A minisymposium organized at the 2025 Conference on Computational Science and Engineering (CSE25)</a> hosted by the Society for Industrial and Applied Mathematics (SIAM)."
+      description: "A minisymposium organized at the 2025 Conference on Computational Science and Engineering (CSE25) hosted by the Society for Industrial and Applied Mathematics (SIAM)."
       link: "https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=82405"
       image_url: "/images/siam-cse25-presenters.png"
       image_alt: "Photo of minisymposium organizers and presenters."
