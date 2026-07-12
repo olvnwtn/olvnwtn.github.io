@@ -1,13 +1,8 @@
+{% assign group = include.group %}
 <div class="container">
-  <section class="section section-links animate">
+  <section class="section section-links">
 
-    {% if site.data.papers.title %}
-    <div class="section__head">
-      <h3 class="section__title">{{ site.data.papers.title }}</h3>
-    </div>
-    {% endif %}
-
-    {% for item in site.data.papers.items %}
+    {% for item in group.items %}
     <article class="single-link">
       <div class="single-link__image">
         <img src="{{ item.image_url }}" alt="{{ item.image_alt }}" loading="lazy">
