@@ -1,0 +1,23 @@
+title: Presentations
+items:
+  - title: "Perspectives on Teamwork and AI in Scientific Computing."
+    description: "Presented at the Platform for Advanced Scientific Computing (PASC) Conference (PASC26) in Bern, CH."
+    link: "https://pasc-conference.org/editions/pasc26/presentation/?id=pos129&sess=sess135"
+    image_url: "/images/newton-etal-pasc26.png"
+    #image_alt: "First page of the paper"
+  # three more
+  - title: "A Survey of Teamwork, AI, and Their Integration in Scientific Computing: Preliminary Findings."
+    description: "Presented at the Consortium for the Advancement of Scientific Software (CASS) User Developer Experience (UDX) Working Group Webinar Series."
+    link: "https://zenodo.org/records/19101680"
+    image_url: "/images/newton-cass-udx26.png"
+    #image_alt: "First page of the paper"
+  - title: "Collaboration in Scientific Software: A Systematic Literature Review."
+    description: "Presented at the 2025 US Research Software Engineering Conference 2025 (USRSE'25) in Philadelphia, PA, USA."
+    link: "https://doi.org/10.5281/zenodo.17281562"
+    image_url: "/images/newton-etal-usrse25.png"
+    #image_alt: "First page of the paper"
+  - title: "Building High-Performance Teams in High-Performance Computing and Beyond."
+    description: "Presented at the Clemson University School of Computing Seminar Series (Online)."
+    link: "https://www.linkedin.com/posts/kiderj_this-weeks-clemson-university-school-of-share-7368666685899214848-v2lW/"
+    image_url: "/images/newton-clemson-computing25.jpeg"
+    #image_alt: "First page of the paper"

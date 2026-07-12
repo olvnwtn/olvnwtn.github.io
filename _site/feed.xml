@@ -5,8 +5,8 @@
         <description>My website</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Jul 2026 00:57:47 -0600</pubDate>
-        <lastBuildDate>Sat, 11 Jul 2026 00:57:47 -0600</lastBuildDate>
+        <pubDate>Sat, 11 Jul 2026 20:47:22 -0600</pubDate>
+        <lastBuildDate>Sat, 11 Jul 2026 20:47:22 -0600</lastBuildDate>
         <generator>Jekyll v4.4.1</generator>
         
             <item>
@@ -17,42 +17,81 @@
 
 &lt;h4 id=&quot;publications&quot;&gt;Publications&lt;/h4&gt;
 
-&lt;p&gt;Forthcoming: &lt;i&gt;Ecosystems for scientific computing in the age of AI&lt;/i&gt; in Issue 28 (2) of &lt;a href=&quot;https://www.computer.org/csdl/magazine/cs&quot;&gt;IEEE Computing in Science &amp;amp; Engineering&lt;/a&gt;.&lt;/p&gt;
+&lt;div style=&quot;display: flex; align-items: center; gap: 16px;&quot;&gt;
+  &lt;p&gt;&lt;a href=&quot;https://doi.ieeecomputersociety.org/10.1109/MCSE.2026.3685068&quot;&gt;&lt;i&gt;Ecosystems for scientific computing in the age of AI&lt;/i&gt;&lt;/a&gt; is published in Issue 28 (2) of &lt;a href=&quot;https://www.computer.org/csdl/magazine/cs&quot;&gt;IEEE Computing in Science &amp;amp; Engineering&lt;/a&gt;.&lt;/p&gt;
+  &lt;a href=&quot;https://doi.ieeecomputersociety.org/10.1109/MCSE.2026.3685068&quot; style=&quot;flex-shrink: 0;&quot;&gt;
+    &lt;img src=&quot;https://csdl-images.ieeecomputer.org/website/default-covers/mags/cs.jpg&quot; alt=&quot;cise issue 28 (2) cover&quot; width=&quot;200&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
 &lt;div style=&quot;display: flex; align-items: center; gap: 16px;&quot;&gt;
-  &lt;a href=&quot;https://arxiv.org/pdf/2510.03413&quot;&gt;
-    &lt;img src=&quot;/images/report_cover-01.jpg&quot; alt=&quot;workshop year 1 report cover&quot; width=&quot;600&quot; /&gt;
+  &lt;a href=&quot;https://arxiv.org/pdf/2510.03413&quot; style=&quot;flex-shrink: 0;&quot;&gt;
+    &lt;img src=&quot;/images/report_cover-01.jpg&quot; alt=&quot;workshop year 1 report cover&quot; width=&quot;200&quot; /&gt;
   &lt;/a&gt;
-&lt;p&gt;&lt;a href=&quot;https://arxiv.org/pdf/2510.03413&quot;&gt;Our first workshop report&lt;/a&gt; offers a look at how this research is unfolding.&lt;/p&gt;
+  &lt;p&gt;&lt;a href=&quot;https://arxiv.org/pdf/2510.03413&quot;&gt;Our first workshop report&lt;/a&gt; offers a look at how this research is unfolding.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;presentations&quot;&gt;Presentations&lt;/h4&gt;
 
-&lt;h5 id=&quot;perspectives-on-teamwork-and-ai-in-scientific-computing&quot;&gt;&lt;a href=&quot;https://pasc-conference.org/editions/pasc26/presentation/?id=pos129&amp;amp;sess=sess135&quot;&gt;Perspectives on Teamwork and AI in Scientific Computing.&lt;/a&gt;&lt;/h5&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;section class=&quot;section section-links animate&quot;&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Presented at the Platform for Advanced Scientific Computing (PASC) Conference (PASC26)&lt;/li&gt;
-&lt;/ul&gt;
+    
+    &lt;div class=&quot;section__head&quot;&gt;
+      &lt;h3 class=&quot;section__title&quot;&gt;Presentations&lt;/h3&gt;
+    &lt;/div&gt;
+    
 
-&lt;h5 id=&quot;a-survey-of-teamwork-ai-and-their-integration-in-scientific-computing-preliminary-findings&quot;&gt;&lt;a href=&quot;https://zenodo.org/records/19101680&quot;&gt;A Survey of Teamwork, AI, and Their Integration in Scientific Computing: Preliminary Findings.&lt;/a&gt;&lt;/h5&gt;
+    
+    &lt;article class=&quot;single-link&quot;&gt;
+      &lt;div class=&quot;single-link__image&quot;&gt;
+        &lt;img src=&quot;/images/newton-etal-pasc26.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;single-link__content&quot;&gt;
+        &lt;h4 class=&quot;single-link__title&quot;&gt;Perspectives on Teamwork and AI in Scientific Computing.&lt;/h4&gt;
+        &lt;p class=&quot;single-link__description&quot;&gt;Presented at the Platform for Advanced Scientific Computing (PASC) Conference (PASC26) in Bern, CH.&lt;/p&gt;
+        &lt;a href=&quot;https://pasc-conference.org/editions/pasc26/presentation/?id=pos129&amp;amp;sess=sess135&quot; class=&quot;single-link__url&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://pasc-conference.org/editions/pasc26/presentation/?id=pos129&amp;amp;sess=sess135&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/article&gt;
+    
+    &lt;article class=&quot;single-link&quot;&gt;
+      &lt;div class=&quot;single-link__image&quot;&gt;
+        &lt;img src=&quot;/images/newton-cass-udx26.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;single-link__content&quot;&gt;
+        &lt;h4 class=&quot;single-link__title&quot;&gt;A Survey of Teamwork, AI, and Their Integration in Scientific Computing: Preliminary Findings.&lt;/h4&gt;
+        &lt;p class=&quot;single-link__description&quot;&gt;Presented at the Consortium for the Advancement of Scientific Software (CASS) User Developer Experience (UDX) Working Group Webinar Series.&lt;/p&gt;
+        &lt;a href=&quot;https://zenodo.org/records/19101680&quot; class=&quot;single-link__url&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://zenodo.org/records/19101680&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/article&gt;
+    
+    &lt;article class=&quot;single-link&quot;&gt;
+      &lt;div class=&quot;single-link__image&quot;&gt;
+        &lt;img src=&quot;/images/newton-etal-usrse25.png&quot; alt=&quot;&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;single-link__content&quot;&gt;
+        &lt;h4 class=&quot;single-link__title&quot;&gt;Collaboration in Scientific Software: A Systematic Literature Review.&lt;/h4&gt;
+        &lt;p class=&quot;single-link__description&quot;&gt;Presented at the 2025 US Research Software Engineering Conference 2025 (USRSE&apos;25) in Philadelphia, PA, USA.&lt;/p&gt;
+        &lt;a href=&quot;https://doi.org/10.5281/zenodo.17281562&quot; class=&quot;single-link__url&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://doi.org/10.5281/zenodo.17281562&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/article&gt;
+    
+    &lt;article class=&quot;single-link&quot;&gt;
+      &lt;div class=&quot;single-link__image&quot;&gt;
+        &lt;img src=&quot;/images/newton-clemson-computing25.jpeg&quot; alt=&quot;&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;single-link__content&quot;&gt;
+        &lt;h4 class=&quot;single-link__title&quot;&gt;Building High-Performance Teams in High-Performance Computing and Beyond.&lt;/h4&gt;
+        &lt;p class=&quot;single-link__description&quot;&gt;Presented at the Clemson University School of Computing Seminar Series (Online).&lt;/p&gt;
+        &lt;a href=&quot;https://www.linkedin.com/posts/kiderj_this-weeks-clemson-university-school-of-share-7368666685899214848-v2lW/&quot; class=&quot;single-link__url&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.linkedin.com/posts/kiderj_this-weeks-clemson-university-school-of-share-7368666685899214848-v2lW/&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/article&gt;
+    
 
-&lt;ul&gt;
-  &lt;li&gt;Presented at the Consortium for the Advancement of Scientific Software (CASS) User Developer Experience (UDX) Working Group Webinar Series&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;collaboration-in-scientific-software-a-systematic-literature-review&quot;&gt;&lt;a href=&quot;https://doi.org/10.5281/zenodo.17281562&quot;&gt;Collaboration in Scientific Software: A Systematic Literature Review.&lt;/a&gt;&lt;/h5&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Presented at the 2025 US Research Software Engineering Conference 2025 (USRSE’25)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;building-high-performance-teams-in-high-performance-computing-and-beyond&quot;&gt;Building High-Performance Teams in High-Performance Computing and Beyond.&lt;/h5&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Presented at the Clemson University School of Computing Seminar Series&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;/section&gt;
+&lt;/div&gt;
 </description>
                 <pubDate>Mon, 30 Sep 2024 00:00:00 -0600</pubDate>
                 <link>http://localhost:4000/Next-Gen/</link>
@@ -125,9 +164,9 @@
         
             <item>
                 <title>Team Learning for Better Scientific Software</title>
-                <description>&lt;p&gt;I lead a &lt;a href=&quot;https://tl4bssw.github.io/workgroup/&quot;&gt;group of 11 collaborators&lt;/a&gt; from universities and national laboratories across the United States.&lt;/p&gt;
+                <description>&lt;p&gt;This project grew out of the Team Learning for Better Scientific Software Workshop (TL4BSSw), which I organized at the University of Central Florida in November 2024. Workshop participants developed proposals for enhancing team learning in scientific software projects, targeting areas such as multi-team systems, artificial intelligence, and broadening participation. Building on that momentum, our group has continued the collaboration through the development of online resources, a minisymposium at SIAM CSE25, and a forthcoming manuscript. I lead this &lt;a href=&quot;https://tl4bssw.github.io/workgroup/&quot;&gt;group of 11 collaborators&lt;/a&gt; from universities and national laboratories across the United States.&lt;/p&gt;
 
-&lt;p&gt;This project grew out of the Team Learning for Better Scientific Software Workshop (TL4BSSw), which I organized at the University of Central Florida in November 2024. Workshop participants developed proposals for enhancing team learning in scientific software projects, targeting areas such as multi-team systems, artificial intelligence, and broadening participation. Building on that momentum, our group has continued the collaboration through the development of online resources, a minisymposium at SIAM CSE25, and a forthcoming manuscript.&lt;/p&gt;
+&lt;h4 id=&quot;products-and-presentations&quot;&gt;Products and Presentations&lt;/h4&gt;
 
 &lt;p&gt;Our knowledge base at &lt;a href=&quot;https://tl4bssw.github.io/&quot;&gt;tl4bssw.github.io&lt;/a&gt; shares workshop materials and resources for team learning.&lt;/p&gt;
 
@@ -137,9 +176,11 @@
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=82405&quot;&gt;Minisymposium at the 2025 Conference on Computational Science and Engineering (CSE25)&lt;/a&gt; hosted by the Society for Industrial and Applied Mathematics (SIAM).&lt;/p&gt;
+
 &lt;h4 id=&quot;funding-acknowledgement&quot;&gt;Funding Acknowledgement&lt;/h4&gt;
 
-&lt;p&gt;This work was supported by the &lt;a href=&quot;https://bssw.io/pages/bssw-fellowship-program&quot;&gt;Better Scientific Software Fellowship Program&lt;/a&gt;, a collaborative effort of the U.S. Department of Energy (DOE), Office of Advanced Scientific Research via ANL under Contract DE-AC02-06CH11357 and the National Nuclear Security Administration Advanced Simulation and Computing Program via LLNL under Contract DE-AC52-07NA27344; and by the National Science Foundation (NSF) via SHI under Grant No. 2327079.&lt;/p&gt;
+&lt;p&gt;This work was partially supported by the &lt;a href=&quot;https://bssw.io/pages/bssw-fellowship-program&quot;&gt;Better Scientific Software Fellowship Program&lt;/a&gt;, a collaborative effort of the U.S. Department of Energy (DOE), Office of Advanced Scientific Research via ANL under Contract DE-AC02-06CH11357 and the National Nuclear Security Administration Advanced Simulation and Computing Program via LLNL under Contract DE-AC52-07NA27344; and by the National Science Foundation (NSF) via SHI under Grant No. 2327079.&lt;/p&gt;
 </description>
                 <pubDate>Fri, 01 Dec 2023 00:00:00 -0700</pubDate>
                 <link>http://localhost:4000/TL4BSSw/</link>

@@ -1,0 +1,24 @@
+<div class="container">
+  <section class="section section-links animate">
+
+    {% if site.data.papers.title %}
+    <div class="section__head">
+      <h3 class="section__title">{{ site.data.papers.title }}</h3>
+    </div>
+    {% endif %}
+
+    {% for item in site.data.papers.items %}
+    <article class="single-link">
+      <div class="single-link__image">
+        <img src="{{ item.image_url }}" alt="{{ item.image_alt }}" loading="lazy">
+      </div>
+      <div class="single-link__content">
+        <h4 class="single-link__title">{{ item.title }}</h4>
+        <p class="single-link__description">{{ item.description }}</p>
+        <a href="{{ item.link }}" class="single-link__url" target="_blank" rel="noopener">{{ item.link }}</a>
+      </div>
+    </article>
+    {% endfor %}
+
+  </section>
+</div>
