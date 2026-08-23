@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 16px;">
 <p>
 	<a href="https://www.umt.edu/business-faculty-staff/directory/information-systems.php?ID=9093">I'm a member of the faculty at the University of Montana</a> (UM) and <a href="/teaching/">teach courses in programming and statistics</a>. <br><br> My research focuses on how individuals and teams learn, make decisions, and collaborate effectively in sociotechnical systems. <br><br> I primarily study teams and technology, examining how training, expertise, and cognition shape performance in contexts ranging from human-AI teaming and human-robot interaction to open source and scientific software development. I also investigate how teams use computational technologies, including AI tools, to coordinate, innovate, and solve problems. 
 </p>
-<img src="/images/many_glacier.png" alt="Many Glacier hiking trail." width="2200"/>
-</div>
   
   
 One of my current research projects, sponsored by the U.S. Department of Energy via a grant from Argonne National Laboratory, centers on advancing AI-enabled scientific computing ecosystems that integrate software and human expertise to accelerate discovery. 
@@ -19,7 +16,7 @@ Before joining UM, I was a Postdoctoral Scholar in the <a href="https://csl.ist.
 In my free time, I enjoy hiking, cycling, and baking. 
 
 
-### Recent Highlights
+### Recent News
 
 
 * Co-authored the article <a href="https://doi.org/10.1109/MCSE.2026.3685068">Ecosystems for scientific computing in the age of AI</a> published in <a href="https://www.computer.org/csdl/magazine/cs">IEEE Computing in Science & Engineering</a> (July 2026).
