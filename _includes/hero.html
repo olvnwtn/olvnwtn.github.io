@@ -13,8 +13,9 @@
             <h2 class="hero__job">{{ site.data.settings.hero.hero__job }}</h2>
             {% endif %}
             {% if site.data.settings.hero.hero__description %}
-            <p class="hero__description">{{ site.data.settings.hero.hero__description }}</p>
-            {% endif %}
+            <!--<p class="hero__description">{{ site.data.settings.hero.hero__description }}</p>
+            {% endif %} -->
+            <div class="hero__description">{{ site.data.settings.hero.hero__description | markdownify }}</div>
             {% if site.data.settings.hero.hero__button__text %}
             <a class="hero__button" href="{{ site.data.settings.hero.hero__button__link | relative_url }}">
               <span class="hero__button__arrow"><i class="fa-solid fa-chevron-right"></i></span>
