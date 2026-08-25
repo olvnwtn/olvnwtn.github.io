@@ -110,6 +110,7 @@ mailchimp:
 #-------------------------------
 # Social Icons Settings
 social:
+- {icon: "fa-solid fa-file-lines", name: "CV", link: "https://drive.google.com/file/d/1HeLH08b04Wa-S-C4M1OP0mzkiSVi4ilH/view"}
 - {icon: "fa-brands fa-google-scholar", name: "Google Scholar", link: "https://scholar.google.com/citations?user=LuRBAzgAAAAJ&hl"}
 - {icon: "fa-brands fa-github", name: "GitHub", link: "https://github.com/olvnwtn"}
 - {icon: "fa-brands fa-linkedin", name: "LinkedIn", link: "https://www.linkedin.com/in/olivia-b-newton"}
