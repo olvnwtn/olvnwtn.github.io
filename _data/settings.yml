@@ -71,7 +71,7 @@ hero:
     ‣ How can computational tools better support human judgment?<br>
     </div>
 
-  hero__button__text: About me
+  #hero__button__text: About me
   hero__button__link: "/about/"
   hero__image: "/images/obn.png"
 
