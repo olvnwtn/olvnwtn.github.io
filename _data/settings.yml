@@ -24,10 +24,10 @@ menu__settings:
         title: "Identity and Innovation"
       - url: "/Past-Projects/"
         title: "Past Projects"
+    - title: "Publications"
+      url: "/publications/"
     - title: "Teaching"
       url: "/teaching/"
-    #- title: "Publications"
-    #  url: "/publications/"
 
 #-------------------------------
 # Author Settings
