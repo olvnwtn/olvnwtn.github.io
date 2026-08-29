@@ -10,9 +10,9 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu__settings:
   menu__items:
-    #- title: "About"
-    #  url: "/about/"
-    - title: "Research"
+    - title: "About"
+      url: "/about/"
+    - title: "Projects"
       submenu:
       - url: "/Next-Gen/"
         title: "Scientific Computing"
