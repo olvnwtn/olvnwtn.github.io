@@ -62,11 +62,11 @@ hero:
   hero__title: <span><strong>Olivia B. Newton, Ph.D.</strong></span> # Wrap text in a <span></span> tag to highlight and underline text.
   hero__job: 
   hero__description: |
-    <p style="margin-bottom: 0;">I study how people learn, make decisions, and collaborate across software development, scientific work, and human-AI systems. My research thus spans cognitive science, computer-supported cooperative work, and software engineering to answer questions such as:</p>
+    <p style="margin-top: 1em; margin-bottom: 0;">I study how people learn, make decisions, and collaborate across software development, scientific work, and human-AI systems. My research thus spans cognitive science, computer-supported cooperative work, and software engineering to answer questions such as:</p>
     <div style="padding-left: 0.8em; margin-top: 0.5em;">
     ‣ How is AI transforming collaboration in scientific computing?<br>
 
-    ‣ What makes cross-disciplinary scientific software teams effective?<br>
+    ‣ What makes cross-disciplinary science teams effective?<br>
 
     ‣ How can computational tools better support human judgment?<br>
     </div>
