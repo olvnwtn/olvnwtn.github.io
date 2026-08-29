@@ -341,3 +341,18 @@ table td {
 .lightense-backdrop {
   background-color: var(--background-color) !important;
 }
+
+ul {
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+  padding-left: 1.25rem;
+}
+
+ul li {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+
+ul li:last-child {
+  margin-bottom: 0;
+}
