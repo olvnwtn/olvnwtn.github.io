@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <p>
-	<a href="https://www.umt.edu/business-faculty-staff/directory/information-systems.php?ID=9093">I'm a member of the faculty at the University of Montana</a> (UM) and <a href="/teaching/">teach courses in programming and statistics</a>. <br><br> My research focuses on how individuals and teams learn, make decisions, and collaborate effectively in sociotechnical systems. <br><br> I primarily study teams and technology, examining how training, expertise, and cognition shape performance in contexts ranging from human-AI teaming and human-robot interaction to open source and scientific software development. I also investigate how teams use computational technologies, including AI tools, to coordinate, innovate, and solve problems. 
+	<a href="https://www.umt.edu/business-faculty-staff/directory/information-systems.php?ID=9093">I'm a Research Associate and Adjunct Professor in Management Information Systems at the University of Montana</a> (UM) and <a href="/teaching/">teach courses in programming and statistics</a>. <br><br> My research focuses on how individuals and teams learn, make decisions, and collaborate effectively in sociotechnical systems. <br><br> I primarily study teams and technology, examining how training, expertise, and cognition shape performance in contexts ranging from human-AI teaming and human-robot interaction to open source and scientific software development. I also investigate how teams use computational technologies, including AI tools, to coordinate, innovate, and solve problems. 
 </p>
   
   
