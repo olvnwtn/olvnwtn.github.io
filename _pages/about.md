@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-<p>
-	<a href="https://www.umt.edu/business-faculty-staff/directory/information-systems.php?ID=9093">I'm a Research Associate and Adjunct Professor in Management Information Systems at the University of Montana</a> (UM) and <a href="/teaching/">teach courses in programming and statistics</a>. <br><br> My research focuses on how individuals and teams learn, make decisions, and collaborate effectively in sociotechnical systems. <br><br> I primarily study teams and technology, examining how training, expertise, and cognition shape performance in contexts ranging from human-AI teaming and human-robot interaction to open source and scientific software development. I also investigate how teams use computational technologies, including AI tools, to coordinate, innovate, and solve problems. 
-</p>
-  
+I'm a <a href="https://www.umt.edu/business-faculty-staff/directory/information-systems.php?ID=9093">Research Associate and Adjunct Professor in Management Information Systems at the University of Montana</a> (UM) and <a href="/teaching/">teach courses in programming and statistics</a>. <br><br> My research focuses on how individuals and teams learn, make decisions, and collaborate effectively in sociotechnical systems. <br><br> I primarily study teams and technology, examining how training, expertise, and cognition shape performance in contexts ranging from human-AI teaming and human-robot interaction to open source and scientific software development. I also investigate how teams use computational technologies, including AI tools, to coordinate, innovate, and solve problems. 
+
+
+<hr style="text-align:center;background-image: linear-gradient(to right, #ccc, #333, #ccc);">
   
 One of my current research projects, sponsored by the U.S. Department of Energy via a grant from Argonne National Laboratory, centers on advancing AI-enabled scientific computing ecosystems that integrate software and human expertise to accelerate discovery. 
 
