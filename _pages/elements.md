@@ -110,22 +110,22 @@ li {
 
 ## Images
 
-![Surface](/images/50.jpg#wide)
+![Surface](/assets/images/50.jpg#wide)
 *Photo by [Surface](https://unsplash.com/photos/nlyWZtWTzCo) on [Unsplash](https://unsplash.com/)*
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/100.jpg" loading="lazy">
-    <img src="/images/101.jpg" loading="lazy">
-    <img src="/images/102.jpg" loading="lazy">
-    <img src="/images/103.jpg" loading="lazy">
-    <img src="/images/104.jpg" loading="lazy">
-    <img src="/images/105.jpg" loading="lazy">
+    <img src="/assets/images/100.jpg" loading="lazy">
+    <img src="/assets/images/101.jpg" loading="lazy">
+    <img src="/assets/images/102.jpg" loading="lazy">
+    <img src="/assets/images/103.jpg" loading="lazy">
+    <img src="/assets/images/104.jpg" loading="lazy">
+    <img src="/assets/images/105.jpg" loading="lazy">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-![Learn](/images/02.jpg)
+![Learn](/assets/images/02.jpg)
 *Photo by [Jeffery Erhunse](https://unsplash.com/photos/xE9Z9HZ1Grk) on [Unsplash](https://unsplash.com/)*
 
 ***
