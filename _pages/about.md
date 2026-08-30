@@ -8,9 +8,7 @@ I'm a <a href="https://www.umt.edu/business-faculty-staff/directory/information-
 
 <hr style="text-align:center;background-image: linear-gradient(to right, #ccc, #333, #ccc);">
 
-My research focuses on how individuals and teams learn, make decisions, and collaborate effectively in sociotechnical systems. I primarily study teams and technology, examining how training, expertise, and cognition shape performance in contexts ranging from human-AI teaming and human-robot interaction to open source and scientific software development. I also investigate how teams use computational technologies, including AI tools, to coordinate, innovate, and solve problems. 
-
-One of my current research projects, sponsored by the U.S. Department of Energy via a grant from Argonne National Laboratory, centers on advancing AI-enabled scientific computing ecosystems that integrate software and human expertise to accelerate discovery. 
+My research focuses on how individuals and teams learn, make decisions, and collaborate effectively in sociotechnical systems. I primarily study teams and technology, examining how training, expertise, and cognition shape performance in contexts ranging from human-AI teaming and human-robot interaction to open source and scientific software development. I also investigate how teams use computational technologies, including AI tools, to coordinate, innovate, and solve problems. One of my current research projects, sponsored by the U.S. Department of Energy via a grant from Argonne National Laboratory, centers on advancing AI-enabled scientific computing ecosystems that integrate software and human expertise to accelerate discovery. 
 
 Before joining UM, I was a Postdoctoral Scholar in the <a href="https://csl.ist.ucf.edu/">Cognitive Sciences Lab</a> and earned a <a href="https://graduate.ucf.edu/profile/olivia-newton">Ph.D. in Modeling and Simulation</a> at the University of Central Florida.
 
@@ -20,7 +18,7 @@ In my free time, I enjoy hiking, cycling, and baking.
 ### Recent News
 
 
-* Co-authored the article <a href="https://doi.org/10.1109/MCSE.2026.3685068">Ecosystems for scientific computing in the age of AI</a> published in <a href="https://www.computer.org/csdl/magazine/cs">IEEE Computing in Science & Engineering</a> (July 2026).
+* Co-authored the article <a href="https://doi.org/10.1109/MCSE.2026.3685068">Ecosystems for scientific computing in the age of artificial intelligence</a> published in <a href="https://www.computer.org/csdl/magazine/cs">IEEE Computing in Science & Engineering</a> (July 2026).
 
 * Presented research on <a href="https://pasc-conference.org/editions/pasc26/presentation/?id=pos129&sess=sess135">teamwork and AI in scientific computing</a> at the <a href="https://pasc26.pasc-conference.org/">Platform for Advanced Scientific Computing Conference (PASC26)</a> (June 2026).
 
